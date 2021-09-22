@@ -1,4 +1,4 @@
-# Python - Video Recorder
+# Python - AI Virtual Drag and Drop
 - ***Opencv - Python***
 - ***pip install opencv-python***
 - ***pip install cvzone***
